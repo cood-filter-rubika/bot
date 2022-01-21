@@ -48,7 +48,8 @@ print("""# botcreated#
                     idBBgrJBBBBBBBBBBBBBBBBBBB77QBBP:
                         .rv1XZMQQBBBBBBBQQgZSu7i
                                   bay""")
-print(Fore.RED)
+
+
 
 
 bot = Bot(input("Please enter your Auth:"))
