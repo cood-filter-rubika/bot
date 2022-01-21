@@ -82,7 +82,7 @@ def hasAds(msg):
 answered = [bot.getGroupAdmins]
 retries = {}
 sleeped = False
-# Creator = shayan Heydari (snipe4Kill)
+# Creator = maxtor
 plus= True
 
 while True:
